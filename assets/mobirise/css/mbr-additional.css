@@ -100,11 +100,7 @@ body {
 .btn {
   padding: 1.25rem 2rem;
   border-radius: 4px;
-}
-@media (max-width: 767px) {
-  .btn {
-    padding: 0.75rem 1.5rem;
-  }
+  padding: 0.75rem 1.5rem;
 }
 .btn-sm {
   padding: 0.6rem 1.2rem;
@@ -1076,7 +1072,7 @@ img {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-uqPL0c4J2x button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2230,9 +2226,9 @@ img {
   color: #ffffff;
 }
 .cid-uqSHiKw16l {
-  padding-top: 8rem;
+  padding-top: 10rem;
   padding-bottom: 8rem;
-  background-color: #272b2e;
+  background-color: #242424;
   overflow: hidden;
   box-sizing: border-box;
 }
@@ -2455,7 +2451,7 @@ img {
 .cid-uqPuiggr7f .mbr-step-title {
   margin-bottom: 0;
   font-weight: 500;
-  color: #ffffff;
+  color: #bfa04c;
 }
 .cid-uqPuiggr7f .mbr-step-text {
   margin-bottom: 0;
