@@ -2592,16 +2592,16 @@ img {
   color: #ffffff;
 }
 .cid-ur6d9rLnHG {
-  padding-top: 75px;
-  padding-bottom: 75px;
-  background-image: url("../../../assets/images/mbr-2-1920x1280.jpg");
+  padding-top: 105px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/mbr-4-1920x1280.jpg");
 }
 .cid-ur6d9rLnHG .container-fluid {
   max-width: 1200px;
   padding: 0 1.5rem;
 }
 .cid-ur6d9rLnHG .title {
-  margin-bottom: 4.5rem;
+  margin-bottom: 5rem;
 }
 .cid-ur6d9rLnHG .mbr-section-subtitle {
   color: #ffffff;
@@ -2620,7 +2620,7 @@ img {
 .cid-ur6d9rLnHG .card {
   display: flex;
   flex-direction: row;
-  margin-bottom: 1rem;
+  margin-bottom: 4.5rem;
 }
 .cid-ur6d9rLnHG .card:hover .card-title {
   color: #bfa04c;
@@ -2631,11 +2631,12 @@ img {
 .cid-ur6d9rLnHG .card-title {
   color: #bfa04c;
   transition: 0.5s;
-  min-width: 135px;
+  min-width: 220px;
+  text-align: center;
 }
 .cid-ur6d9rLnHG .circle-img {
   width: 80%;
-  border: 2px dashed #bfa04c;
+  border: 0px dashed #bfa04c;
   border-radius: 50%;
   margin: auto;
 }
@@ -2645,17 +2646,17 @@ img {
 @media (min-width: 767px) {
   .cid-ur6d9rLnHG .card-box1 {
     text-align: right;
-    margin-right: 5rem;
+    margin-right: 3rem;
   }
   .cid-ur6d9rLnHG .card-box2 {
-    margin-left: 5rem;
+    margin-left: 3rem;
     text-align: left;
   }
   .cid-ur6d9rLnHG .card-left {
-    margin-right: -3rem;
+    margin-right: -6rem;
   }
   .cid-ur6d9rLnHG .card-right {
-    margin-left: -3rem;
+    margin-left: -10rem;
   }
 }
 .cid-ur6d9rLnHG .last-text {
@@ -2663,8 +2664,8 @@ img {
 }
 @media (max-width: 767px) {
   .cid-ur6d9rLnHG {
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 35px;
+    padding-bottom: 40px;
   }
   .cid-ur6d9rLnHG .container-fluid {
     padding: 0 1rem;
@@ -2705,6 +2706,11 @@ img {
 .cid-ur6d9rLnHG .title,
 .cid-ur6d9rLnHG .mbr-section-title {
   color: #ffffff;
+}
+.cid-ur6d9rLnHG .display-5 {
+  font-family: 'Instrument Sans', sans-serif;
+  font-size: 1.8rem;
+  line-height: 1.0;
 }
 .cid-uqSlkmU4nG {
   padding-top: 5rem;
